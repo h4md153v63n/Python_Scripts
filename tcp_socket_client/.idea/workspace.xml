@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f0df0ac-575c-45d5-a090-a6420b3a7ed8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UUOcTozI23E5dcYZOpcFN2qCnE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/auth_2.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Python.auth_2">
+    <configuration name="auth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auth" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auth_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auth" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auth_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auth" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.auth_2" />
+        <item itemvalue="Python.auth" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f0df0ac-575c-45d5-a090-a6420b3a7ed8" name="Default Changelist" comment="" />
+      <created>1575407786542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575407786542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="373" width="519" height="334" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1576935423786">
+      <screen x="34" y="27" width="1886" height="1020" />
+    </state>
+    <state x="712" y="373" width="519" height="334" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/34.27.1886.1020@34.27.1886.1020" timestamp="1576935423786" />
+    <state x="760" y="295" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577010656031">
+      <screen x="34" y="27" width="1886" height="1020" />
+    </state>
+    <state x="760" y="295" width="424" height="491" key="FileChooserDialogImpl/34.27.1886.1020@34.27.1886.1020" timestamp="1577010656031" />
+    <state width="1863" height="264" key="GridCell.Tab.0.bottom" timestamp="1577011484034">
+      <screen x="34" y="27" width="1886" height="1020" />
+    </state>
+    <state width="1863" height="264" key="GridCell.Tab.0.bottom/34.27.1886.1020@34.27.1886.1020" timestamp="1577011484034" />
+    <state width="1863" height="264" key="GridCell.Tab.0.center" timestamp="1577011484034">
+      <screen x="34" y="27" width="1886" height="1020" />
+    </state>
+    <state width="1863" height="264" key="GridCell.Tab.0.center/34.27.1886.1020@34.27.1886.1020" timestamp="1577011484034" />
+    <state width="1863" height="264" key="GridCell.Tab.0.left" timestamp="1577011484033">
+      <screen x="34" y="27" width="1886" height="1020" />
+    </state>
+    <state width="1863" height="264" key="GridCell.Tab.0.left/34.27.1886.1020@34.27.1886.1020" timestamp="1577011484033" />
+    <state width="1863" height="264" key="GridCell.Tab.0.right" timestamp="1577011484034">
+      <screen x="34" y="27" width="1886" height="1020" />
+    </state>
+    <state width="1863" height="264" key="GridCell.Tab.0.right/34.27.1886.1020@34.27.1886.1020" timestamp="1577011484034" />
+  </component>
+</project>

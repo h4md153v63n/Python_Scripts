@@ -1,0 +1,9 @@
+
+[basic]
+ipython
+
+[complete]
+ipython
+pyx
+cryptography>=2.0
+matplotlib
