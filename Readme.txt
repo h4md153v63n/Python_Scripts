@@ -1,1 +1,1 @@
-Python security codes:
+Python security codes.
