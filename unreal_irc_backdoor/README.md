@@ -30,6 +30,7 @@ uid=1001(ircd) gid=1001(ircd) groups=1001(ircd)
 
 ![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/87096377-57e4-49e0-81fd-35715d6e623e)
 
+![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/82bf9133-a611-4540-8ae8-0c309ed8ba92)
 
 
 ### Here’s what it does:
