@@ -6,6 +6,8 @@ Developed this script for [Irked from HackTheBox](https://www.hackthebox.eu/home
 
 ## Usage
 
+### exploit.py
+
 Call the python script with four arguments to identify the target ip and port, and the callback ip and port you want to use. Then, wait and get a shell:
 
 ```
@@ -22,6 +24,12 @@ uid=1001(ircd) gid=1001(ircd) groups=1001(ircd)
 ```
 
 ![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/e9aca050-8c04-4fc1-afff-dd6daaaf6ca5)
+
+
+### exploit2.py
+
+![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/87096377-57e4-49e0-81fd-35715d6e623e)
+
 
 
 ### Here’s what it does:
