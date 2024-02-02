@@ -25,19 +25,18 @@ uid=1001(ircd) gid=1001(ircd) groups=1001(ircd)
 
 ![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/e9aca050-8c04-4fc1-afff-dd6daaaf6ca5)
 
+**Here's what it does:**
++ Checks for right number of args and set variables, or prints usage. [Lines 7-11]
++ Connects to the host, gets first message from host. [13-20]
++ Sends payload and closes socket. [22-25]
++ Uses subprocess to run a nc listener, waits for callback, and then lets me interact with it until ctrl-c to exit. [27-33]
+
 
 ### exploit2.py
 
 ![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/87096377-57e4-49e0-81fd-35715d6e623e)
 
 ![image](https://github.com/h4md153v63n/Python_Scripts/assets/5091265/82bf9133-a611-4540-8ae8-0c309ed8ba92)
-
-
-### Here’s what it does:
-+ Checks for right number of args and set variables, or prints usage. [Lines 7-11]
-+ Connects to the host, gets first message from host. [13-20]
-+ Sends payload and closes socket. [22-25]
-+ Uses subprocess to run a nc listener, waits for callback, and then lets me interact with it until ctrl-c to exit. [27-33]
 
 
 ## References:
