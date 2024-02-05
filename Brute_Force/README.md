@@ -1,5 +1,5 @@
 # Brute Force Scripts
-- 1. [script.py](https://github.com/h4md153v63n/Python_Scripts/blob/master/Brute_Force/README.md#scriptpy)
++ 1.[script.py](https://github.com/h4md153v63n/Python_Scripts/blob/master/Brute_Force/README.md#scriptpy)
 
 ## script.py
 
